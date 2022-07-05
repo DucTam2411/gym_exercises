@@ -9,6 +9,7 @@ import ExerciseDetail from "./pages/ExerciseDetail";
 import Footer from "./components/Footer";
 
 const App = () => {
+    console.log();
     return (
         <Box width="400" sx={{ width: { xl: "1488px" } }} m="auto">
             <NavBar />
